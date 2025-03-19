@@ -8,5 +8,8 @@
 - https://openweathermap.org (API для получения погоды)
 
 ## Скриншоты
-![screencapture-localhost-5173-2025-03-19-15_58_00](https://github.com/user-attachments/assets/e3634bda-bef7-4c66-855e-e5afd29decd4)
-![screencapture-localhost-5173-2025-03-19-15_58_00](https://github.com/user-attachments/assets/d02de633-4995-46d6-9abb-9077e143b194)
+![Uploading screencapture-localhost-5173-2025-03-19-15_58_23.png…]()
+![screencapture-localhost-5173-2025-03-19-16_43_32](https://github.com/user-attachments/assets/d5bf7e97-ea89-4f1f-8ffa-bb33fce0744b)
+
+
+
